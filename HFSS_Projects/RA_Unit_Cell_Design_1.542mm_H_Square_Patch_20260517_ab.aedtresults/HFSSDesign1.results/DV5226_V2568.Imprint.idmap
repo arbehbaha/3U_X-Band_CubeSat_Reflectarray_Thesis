@@ -1,0 +1,15 @@
+$begin 'imprintInfo'
+	FileVersion='2025R2'
+	$begin 'imprintIDMap'
+	$end 'imprintIDMap'
+	$begin 'PartsInfo'
+		Part(6, 'Substrate', -1, 6, 7, 9, 10, 11, 8, 12)
+		Part(74, 'Simulation_Box', -1, 6, 75, 77, 78, 79, 76, 80)
+		Part(102, 'Ground_Plane', -1, 1, 112)
+		Part(143, 'Patch', -1, 1, 153)
+	$end 'PartsInfo'
+	$begin 'PartAddtionalPiecesInfo'
+	$end 'PartAddtionalPiecesInfo'
+	$begin 'faceImprintInfo'
+	$end 'faceImprintInfo'
+$end 'imprintInfo'
